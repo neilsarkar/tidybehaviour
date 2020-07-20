@@ -1,0 +1,10 @@
+{
+  "name": "com.neilsarkar.violetui",
+  "version": "0.1.0",
+  "displayName": "TidyBehaviour",
+  "description": "A MonoBehaviour that cleans up after itself",
+  "unity": "2019.4",
+  "author": {
+    "name": "Neil Sarkar"
+  }
+}
